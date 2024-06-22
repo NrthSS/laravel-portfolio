@@ -13,22 +13,22 @@
 <body class="index">
 
 <div class="container-home">
-    <img src="" alt="">
+    <h3 class="sub-title-home">Halo👋. </h3>
     <h1><span id="title"></span></h1>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.1.0/typed.umd.js"></script>
-    <script>
-        var typed = new Typed("#title", {
-            strings: ["Halo.", "Selamat Datang di Website Portfolio saya."],
-            typeSpeed: 50,
-            loop: true
-        })
-    </script>
-
-    <p>Muhammad Nur Rizky.</p>
-    <a href="/about" class="get">Get Started</a>
+    <a href="/about" class="get">Get Started 👇</a>
+    <div class="footer">
+        <p class="copyright">© Muhammad Nur Rizky | 2024</p>
+    </div>
 </div>
 
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.1.0/typed.umd.js"></script>
+<script>
+    var typed = new Typed("#title", {
+        strings: ["Selamat Datang di Website Portfolio saya😁.", "Nama saya adalah Muhammad Nur Rizky."],
+        typeSpeed: 62,
+        loop: true
+    })
+</script>
 
 </body>
 </html>

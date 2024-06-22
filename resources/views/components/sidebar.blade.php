@@ -9,7 +9,7 @@
                     <p class="user">Student At SMK Wikrama</p>
                 </div>
             </div>
-            <h1>My Portfolio</h1>
+            <h1>My Portfolio.</h1>
             <nav>
                 <ul>
                     <li><a href="/" >- Home</a></li>
