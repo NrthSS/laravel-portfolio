@@ -17,7 +17,7 @@
         <h2 class="title-about">About Me.</h2>
             <div class="container-information">
                 <div class="card-user">
-                    <p>Halo, nama saya <span style="font-size: 16px; font-weight: 700;">Muhammad Nur Rizky</span> . Saya seorang siswa di <span style="font-size: 16px; font-weight: 700;"> SMK Wikrama Bogor </span> dengan jurusan Pengembangan Perangkat Lunak dan Gim (PPLG). <br> Saya memiliki minat yang mendalam dalam bidang teknologi informasi dan pemrograman, terutama dalam pengembangan aplikasi dan gim. <br> <br> Di sekolah, saya aktif mengikuti kegiatan ekstrakurikuler, seperti voli dan seni budaya seni lukis. Selain itu, saya juga memiliki hobi berenang, yang membantu saya menjaga kebugaran dan keseimbangan hidup. <br> <br> Saya selalu bersemangat untuk belajar hal baru dan berkolaborasi dengan teman-teman dalam tim. </p>
+                    <p>Halo 👋, nama saya <span style="font-size: 16px; font-weight: 700;">Muhammad Nur Rizky</span> . Saya seorang siswa di <span style="font-size: 16px; font-weight: 700;"> SMK Wikrama Bogor </span> dengan jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 🔥. <br> Saya memiliki minat yang mendalam dalam bidang teknologi informasi dan pemrograman, terutama dalam pengembangan aplikasi dan gim. <br> <br> Di sekolah, saya aktif mengikuti kegiatan ekstrakurikuler, seperti voli dan seni budaya seni lukis. Selain itu, saya juga memiliki hobi berenang, yang membantu saya menjaga kebugaran dan keseimbangan hidup. <br> <br> Saya selalu bersemangat untuk belajar hal baru dan berkolaborasi dengan teman-teman dalam tim. </p>
                     {{-- <p> Kemampuan Dalam Coding yang saya Miliki : <br>
                         - HTML5. <br>
                         - CSS3. <br>
@@ -73,7 +73,8 @@
                         </div>
                     </div>
                     <div class="btn-about">
-                        <a href="/contact" class="btn-contact-about">Contact</a>
+                        <a href="/project" class="btn-contact-file a-project">See my Project</a>
+                        <a href="/contact" class="btn-contact-file a-contact">Contact me <span class="next-contact">👉</span></a>
                     </div>
                 </div>
             </div>  
